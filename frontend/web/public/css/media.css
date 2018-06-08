@@ -1,0 +1,120 @@
+@media only screen and (max-width : 1199px){
+	/*HEADER*/
+	.h-header {
+    height: 64px;
+	}
+	.h-header .logo {
+    width: 178px;
+    height: 62px;
+  }
+  .h-header img {
+    height: 62px;
+	}
+	.search input {
+    padding: 8px 35px 8px 7px;
+    margin-top: 16px;
+	}
+	.mentors button {
+    font-size: 13px;
+	}
+	.mentors {
+    margin-right: 30px;
+}
+
+	/*NAVIGATION*/
+
+.lnav li {
+    padding: 6px 0 4px 0;
+    width: 93px;
+    font-size: 14px;
+    margin-right: 5px;
+}
+.lnav .extra-width {
+    width: 216px;
+}
+.rnav ul {
+    margin-right: 10px;
+    padding-top: 2px;
+}
+.rnav li{
+	font-size: 18px;
+}
+
+
+
+/*CONTENT BIG*/
+	.content-big h2 {
+    font-size: 20px;
+    line-height: 28px;
+	}
+	.content-big p {
+    margin-top: 6px;
+    font-size: 14px;
+}
+	.particular {
+    font-size: 12px;
+}
+.news-second{
+	width: 46%;
+}
+	.hidemid{
+		display: none;
+	}
+	.content-small h2 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+}
+@media only screen and (max-width : 991px){
+	.lnav ul{
+		text-align: center;
+	}
+	.lnav li {
+    padding: 6px 0 4px 0;
+    width: 76px;
+    font-size: 14px;
+    margin-right: 2px;
+    float: none;
+    text-align: center;
+    display: inline-block;
+	}
+	.lnav .extra-width {
+    width: 170px;
+	}
+	.rnav ul{
+		overflow: auto;
+    width: 100%;
+    text-align: center;
+	}	
+	.rnav li {
+    float: none;
+    margin-right: 20px;
+    display: inline-block;
+	}
+	.news-second {
+    width: 100%;
+}
+}
+@media only screen and (max-width : 767px){
+
+
+
+
+	
+}
+@media only screen and (max-width : 479px){
+
+
+
+
+	
+}
+@media only screen and (max-width : 321px){
+
+
+
+
+	
+}
